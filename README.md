@@ -1,4 +1,4 @@
-### Hi there, I'm Samir 👋
+![Hi there, I'm Samir 👋](header.png)
 
 ## I'm a Developer and Student!
 <!--- 🔭 I’m currently working on a [VS Code Course][website]!-->
