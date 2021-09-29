@@ -1,6 +1,6 @@
 ![Hi there, I'm Samir 👋](header.png)
 
-## I'm a Developer and Student!
+## I'm a Developer!
 <!--- 🔭 I’m currently working on a [VS Code Course][website]!-->
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
