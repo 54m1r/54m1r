@@ -3,7 +3,7 @@
 ## I'm a Developer!
 <!--- 🔭 I’m currently working on a [VS Code Course][website]!-->
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to music and play piano / guitar
 
 ### Technologies and Tools:
