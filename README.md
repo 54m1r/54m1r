@@ -1,6 +1,6 @@
 ![Hi there, I'm Samir 👋](header.png)
 
-## I'm a Developer!
+## I'm a Web, Mobile & Software Dev!
 <!--- 🔭 I’m currently working on a [VS Code Course][website]!-->
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
