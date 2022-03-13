@@ -1,11 +1,5 @@
 ![Hi there, I'm Samir 👋](header.png)
 
-## I'm a Web, Mobile & Software Dev!
-<!--- 🔭 I’m currently working on a [VS Code Course][website]!-->
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love listening to music and play piano / guitar
-
 ### Technologies and Tools:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
